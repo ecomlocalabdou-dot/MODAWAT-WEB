@@ -1,0 +1,7 @@
+{
+  "name": "عبو ويب - Abdou Web",
+  "description": "منصة تدوين عربية احترافية لأخبار المغرب، التقنية، تطوير الذات، ومراجعة المنتجات.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
